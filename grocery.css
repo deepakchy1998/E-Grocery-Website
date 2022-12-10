@@ -44,7 +44,7 @@ background-color:#40aa54;}
 }
 .logo{
     font-size: 1.4rem;
-    font-weight: 600;
+    font-weight: 599;
     letter-spacing: 1px;
     color: #202020;
 }
@@ -158,7 +158,7 @@ background-color:#40aa54;}
     align-items: center;
     margin-top: 25px;
     padding: 0px 5px 0px 20px;
-    border-radius: 30px;
+    border-radius: 29.99px;
 }
 .search-box i{
     font-size: 1.3rem;
